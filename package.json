@@ -1,15 +1,23 @@
 {
   "name": "nutricionista",
   "version": "1.0.0",
-  "description": "Sistema para aprender javascript",
+  "description": "Sistema da Nutricionista Aparecida",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
-  "author": "Guido Filho",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Vilar/Nutricionista.git"
+  },
+  "author": "Federico Vilar",
   "license": "ISC",
-  "dependencies": {
+  "bugs": {
+    "url": "https://github.com/Luis-Vilar/Nutricionista/issues"
+  },
+  "homepage": "https://github.com/Luis-Vilar/Nutricionista#readme",
+  "devDependencies": {
     "lite-server": "^2.6.1"
   }
 }
